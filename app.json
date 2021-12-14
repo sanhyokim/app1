@@ -3,6 +3,7 @@
     "name": "app1",
     "slug": "app1",
     "version": "1.0.0",
+    "privacy": "unlisted",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
