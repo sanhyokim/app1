@@ -5,7 +5,6 @@ import {
 import { shape, string } from 'prop-types';
 import firebase from 'firebase';
 import CircleButton from '../components/CircleButton';
-import { translateErrors } from '../utils';
 import KeyboardSafeView from '../components/KeyboardSafeView';
 
 export default function MemoEditScreen(props) {
